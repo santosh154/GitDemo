@@ -9,6 +9,8 @@ public class RestApiTest {
 	{
 		
 		System.out.println("I am printing restapi 1st block");
+		System.out.println("I am printing restapi 2ndblock");
+		System.out.println("I am printing restapi3rd block");
 	}
 	
 	@Test
