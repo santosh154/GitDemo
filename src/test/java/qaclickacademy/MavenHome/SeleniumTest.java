@@ -10,6 +10,7 @@ public class SeleniumTest {
 		
 		System.out.println("I am printing selenium 1st block");
 	}
+	
 	@Test
 	public void seleniumtest1()
 	{
