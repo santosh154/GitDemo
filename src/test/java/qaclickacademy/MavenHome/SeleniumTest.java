@@ -10,6 +10,12 @@ public class SeleniumTest {
 		
 		System.out.println("I am printing selenium 1st block");
 	}
+	@Test
+	public void seleniumtest1()
+	{
+		
+		System.out.println("I am printing selenium medium block");
+	}
 	
 	@Test
 	public void UiElementsselenium()
